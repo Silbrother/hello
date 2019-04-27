@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">A.C.A.R</string>
+    <string name="Descricao_logo">Um Sistema de Acompanhamento Controlado de Água e Reuso</string>
+    <string name="btn_Entrar">Entrar</string>
+    <string name="textLogo">A.C.A.R</string>
+    <string name="imgLogo"></string>
+    <string name="editLogin"></string>
+    <string name="textEmail">www.acar.com.br</string>
+    <string name="editSenha"></string>
+    <string name="cxEco">ECONOMIA</string>
+    <string name="editTextCM">Quantos m3 foram consumidos?</string>
+    <string name="textTotal">Total à Pagar</string>
+    <string name="cxCon">CONSUMO</string>
+    <string name="cxRes">RESERVATORIO</string>
+</resources>
